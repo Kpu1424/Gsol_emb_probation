@@ -1,0 +1,2 @@
+sizeof(struct record) = 8, du lieu that = 1 + 4 = 5 byte
+record.bin co 8 byte: 01 00 00 00 E4 0C 00 00

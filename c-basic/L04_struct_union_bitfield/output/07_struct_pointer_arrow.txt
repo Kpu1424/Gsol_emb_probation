@@ -1,0 +1,4 @@
+s.temp    = 25
+(*p).temp = 25
+p->temp   = 25
+Sau calibrate(&s, -2): s.temp = 23

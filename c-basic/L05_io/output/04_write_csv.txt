@@ -1,0 +1,6 @@
+Da ghi 3 dong du lieu vao sensor.csv
+$ cat sensor.csv
+id,temp,voltage
+0,25,3300
+1,26,3290
+2,27,3310

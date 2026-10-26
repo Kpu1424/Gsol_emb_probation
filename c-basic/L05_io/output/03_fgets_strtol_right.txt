@@ -1,0 +1,10 @@
+Nhap nhiet do, moi dong mot so:
+Doc duoc dong: abc
+  Tu choi: khong co chu so nao
+Doc duoc dong: 25abc
+  Tu choi: co ky tu thua 'a' sau so
+Doc duoc dong: 99999999999999999999
+  Tu choi: so qua lon, vuot gioi han cua long
+Doc duoc dong: 25
+  Hop le: nhiet do = 25 C
+Het du lieu (EOF), ket thuc.

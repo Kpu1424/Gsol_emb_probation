@@ -1,0 +1,5 @@
+Gia tri cua a: 25
+Dia chi cua a: 0x7ffcb406f080
+Gia tri cua b: 30
+Dia chi cua b: 0x7ffcb406f084
+Moi bien int chiem sizeof(int) = 4 byte

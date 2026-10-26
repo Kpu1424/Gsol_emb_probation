@@ -1,0 +1,1 @@
+Sau 3 lan goi counter_increment(): counter_get() = 3

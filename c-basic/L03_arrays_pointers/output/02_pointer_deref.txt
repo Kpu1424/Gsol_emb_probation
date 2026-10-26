@@ -1,0 +1,4 @@
+Dia chi cua x (&x): 0x7ffc9e3d16fc
+Gia tri cua p:      0x7ffc9e3d16fc
+Doc qua con tro: *p = 25
+Sau khi gan *p = 30: x = 30

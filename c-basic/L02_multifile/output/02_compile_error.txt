@@ -1,0 +1,6 @@
+$ gcc -std=c11 -Wall -Wextra -g -O0 -c 02_compile_error/main_wrong.c -o build/main_wrong.o
+02_compile_error/main_wrong.c: In function ‘main’:
+02_compile_error/main_wrong.c:13:11: error: ‘temp_limit’ undeclared (first use in this function)
+   13 |   if (t > temp_limit) {
+      |           ^~~~~~~~~~
+02_compile_error/main_wrong.c:13:11: note: each undeclared identifier is reported only once for each function it appears in

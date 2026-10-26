@@ -1,0 +1,3 @@
+Ban dau:          id = 1, temp = 25, voltage = 3300
+Sau khi sua temp: id = 1, temp = 30, voltage = 3300
+sizeof(struct sensor) = 12 byte (3 thanh vien int x 4 byte)

@@ -1,0 +1,6 @@
+$ gcc build/obj/05_static/main_wrong.o build/obj/05_static/counter.o -o build/05_static_wrong
+/usr/bin/ld: build/obj/05_static/main_wrong.o: warning: relocation against `count' in read-only section `.text'
+/usr/bin/ld: build/obj/05_static/main_wrong.o: in function `main':
+/home/emb01/tuan/emb/emb_probation/c-basic/L02_multifile/05_static/main_wrong.c:11: undefined reference to `count'
+/usr/bin/ld: warning: creating DT_TEXTREL in a PIE
+collect2: error: ld returned 1 exit status

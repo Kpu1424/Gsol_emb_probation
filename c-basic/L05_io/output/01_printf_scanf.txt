@@ -1,0 +1,6 @@
+Nhap nhiet do (C) va dien ap (mV), cach nhau dau cach:
+scanf tra ve 2 (so gia tri doc duoc)
+temp    = 25 C
+voltage = 3300 mV
+temp rong 5 o:   [   25] (can phai), [25   ] (can trai)
+voltage dang hex: 0xCE4

@@ -1,0 +1,8 @@
+name[0] = 'T' (ma ASCII 84)
+name[1] = 'E' (ma ASCII 69)
+name[2] = 'M' (ma ASCII 77)
+name[3] = 'P' (ma ASCII 80)
+name[4] = 0 (ky tu '\0' danh dau het chuoi)
+strlen(name) = 4
+sizeof(name) = 5
+Sau khi sua name[0]: WEMP

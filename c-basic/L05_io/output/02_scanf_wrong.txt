@@ -1,0 +1,3 @@
+Nhap nhiet do (so nguyen):
+Lan 1: scanf tra ve 0, temp = -1
+Lan 2: scanf tra ve 0, temp = -1

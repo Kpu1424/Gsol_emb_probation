@@ -1,0 +1,5 @@
+Bo qua dong: id,temp,voltage
+id = 0, temp = 25 C, voltage = 3300 mV
+id = 1, temp = 26 C, voltage = 3290 mV
+id = 2, temp = 27 C, voltage = 3310 mV
+Doc duoc 3 dong du lieu, trung binh temp = 26 C

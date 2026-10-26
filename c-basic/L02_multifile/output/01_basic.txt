@@ -1,0 +1,1 @@
+Nhiet do doc tu sensor.c: 25 C

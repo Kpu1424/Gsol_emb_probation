@@ -1,0 +1,7 @@
+# File build ra, tạo lại được bằng make
+build/
+*.o
+*.out
+# File dữ liệu sinh ra khi chạy chương trình
+*.bin
+*.csv

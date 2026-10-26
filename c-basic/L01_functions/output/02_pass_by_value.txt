@@ -1,0 +1,4 @@
+Truoc khi goi ham: x = 25
+  Trong ham, truoc khi gan: value = 25
+  Trong ham, sau khi gan:   value = 0
+Sau khi goi ham:   x = 25

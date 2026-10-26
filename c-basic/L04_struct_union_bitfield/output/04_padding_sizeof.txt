@@ -1,0 +1,5 @@
+Du lieu that: char + int + char = 6 byte
+struct order_a {char a; int b; char c;}: sizeof = 12
+  offset a = 0, b = 4, c = 8
+struct order_b {int b; char a; char c;}: sizeof = 8
+  offset b = 0, a = 4, c = 5

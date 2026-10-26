@@ -1,0 +1,12 @@
+=== Warning khi build (co y) ===
+06_sizeof_in_function.c: In function ‘print_size’:
+06_sizeof_in_function.c:11:56: warning: ‘sizeof’ on array function parameter ‘data’ will return size of ‘int *’ [-Wsizeof-array-argument]
+   11 |   printf("Trong ham: sizeof(data) = %zu byte\n", sizeof(data));
+      |                                                        ^
+06_sizeof_in_function.c:10:21: note: declared here
+   10 | void print_size(int data[]) {
+      |                 ~~~~^~~~~~
+=== Output khi chay ===
+Trong main: sizeof(samples) = 20 byte
+Trong main: so phan tu = 5
+Trong ham: sizeof(data) = 8 byte

@@ -1,0 +1,4 @@
+Nhiet do = 45 C, nguong = 40 C
+Qua nhiet -> main tra ve 1
+$ echo $?
+1

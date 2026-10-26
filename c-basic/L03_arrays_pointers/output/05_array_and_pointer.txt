@@ -1,0 +1,4 @@
+a[0] = 25, *(p + 0) = 25, dia chi = 0x7ffc44c0f8dc
+a[1] = 30, *(p + 1) = 30, dia chi = 0x7ffc44c0f8e0
+a[2] = 35, *(p + 2) = 35, dia chi = 0x7ffc44c0f8e4
+a == &a[0] -> 1 (1 la dung)

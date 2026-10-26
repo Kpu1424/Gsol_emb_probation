@@ -1,0 +1,4 @@
+max(25, 30) = 30
+is_overheat(45) = 1
+is_overheat(25) = 0
+45 C la qua nhiet

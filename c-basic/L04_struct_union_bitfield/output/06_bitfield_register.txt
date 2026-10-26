@@ -1,0 +1,9 @@
+=== Warning khi build (co y) ===
+06_bitfield_register.c: In function ‘main’:
+06_bitfield_register.c:34:19: warning: unsigned conversion from ‘int’ to ‘unsigned char:2’ changes value from ‘5’ to ‘1’ [-Woverflow]
+   34 |   reg.bits.mode = 5;   /* 5 cần 3 bit, trường chỉ có 2 bit -> chỉ giữ 2 bit thấp (01) */
+      |                   ^
+=== Output khi chay ===
+sizeof(struct status_reg) = 4 byte
+enable = 1, error = 0, mode = 2, channel = 9 -> raw = 0x99
+Sau khi gan mode = 5: mode = 1, raw = 0x95

@@ -1,0 +1,4 @@
+Truoc khi goi ham
+  Trong ham print_temp: nhiet do = 25 C
+  Trong ham print_temp: nhiet do = 30 C
+Sau khi goi ham

@@ -1,0 +1,3 @@
+MODE_OFF = 0, MODE_NORMAL = 1, MODE_FAST = 2
+mode hien tai = 2
+Doc 10 lan moi giay

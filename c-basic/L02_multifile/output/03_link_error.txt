@@ -1,0 +1,4 @@
+$ gcc build/obj/01_basic/main.o -o build/03_link_error
+/usr/bin/ld: build/obj/01_basic/main.o: in function `main':
+/home/emb01/tuan/emb/emb_probation/c-basic/L02_multifile/01_basic/main.c:10: undefined reference to `sensor_read_temp'
+collect2: error: ld returned 1 exit status

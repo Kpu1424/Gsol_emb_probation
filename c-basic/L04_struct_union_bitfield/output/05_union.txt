@@ -1,0 +1,6 @@
+Dia chi w.value: 0x7ffcbc0fa784
+Dia chi w.bytes: 0x7ffcbc0fa784
+sizeof(union word) = 4 byte (bang thanh vien lon nhat, khong phai tong)
+Ghi w.value = 0x11223344
+Doc w.bytes = 44 33 22 11
+Sau khi ghi w.bytes[0] = 0xFF: w.value = 0x112233FF

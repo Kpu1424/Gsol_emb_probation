@@ -1,0 +1,2 @@
+main.c doc g_temp_limit = 40
+Sau config_set_limit(50), main.c doc lai g_temp_limit = 50
