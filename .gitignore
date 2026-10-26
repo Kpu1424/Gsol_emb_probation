@@ -5,3 +5,17 @@ build/
 # File dữ liệu sinh ra khi chạy chương trình
 *.bin
 *.csv
+part2_os/L06_memory_layout/memory_layout
+part2_os/L07_lifetime_heap/heap_bugs
+part2_os/L07_lifetime_heap/lifetime_heap
+part2_os/L08_process/fork_exec
+part2_os/L08_process/fork_wait
+part2_os/L08_process/sensor_child
+part2_os/L09_threads/threads
+part2_os/L10_race_mutex/mutex
+part2_os/L10_race_mutex/mutex_tsan
+part2_os/L10_race_mutex/race
+part2_os/L10_race_mutex/race_tsan
+part2_os/L11_semaphore/producer_consumer
+part2_os/L11_semaphore/producer_consumer_tsan
+part3_git/sandbox/
