@@ -19,3 +19,5 @@ part2_os/L10_race_mutex/race_tsan
 part2_os/L11_semaphore/producer_consumer
 part2_os/L11_semaphore/producer_consumer_tsan
 part3_git/sandbox/
+_old/
+hello
